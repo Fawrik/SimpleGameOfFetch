@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b1a1fcdf37ee44487161dc64628f7e, type: 3}
+  m_Name: Little furball
+  m_EditorClassIdentifier: 
+  ID: 
+  index: 0
+  isRecycleable: 0
+  isThgoughtThrough: 0
+  thoughts:
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: That little furball has no idea how much she has changed my
+        life.
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: "I\u2019m still not used to that\u2026 Unconditional love."
+    - order: 0
+      thoughtLineText: "I keep thinking that she\u2019ll get fed up with the real
+        me, "
+    - order: 0
+      thoughtLineText: "and we\u2019ll have a fight someday."
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: "It\u2019s nice to be loved because of who I am, and not despite
+        of."
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: 'She makes me more patient with myself. '
+    - order: 0
+      thoughtLineText: More forgiving of my mistakes.

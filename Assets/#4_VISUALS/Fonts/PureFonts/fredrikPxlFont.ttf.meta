@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8f3d83e17553b3d43aeded6d1f710a2d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: fredrikPxlFont
+  fontNames:
+  - fredrikPxlFont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 594a39e93a9a9f447aecd2f547c9a3b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b1a1fcdf37ee44487161dc64628f7e, type: 3}
+  m_Name: Their eyes
+  m_EditorClassIdentifier: 
+  ID: 
+  index: 0
+  isRecycleable: 0
+  isThgoughtThrough: 0
+  thoughts:
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: Their eyes are filled with the same amount of gratitude.
+    - order: 0
+      thoughtLineText: "And that look\u2026 The one that says it\u2019s going to
+        be okay."
+    - order: 0
+      thoughtLineText: "I\u2019ll never forget that."

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56b1a1fcdf37ee44487161dc64628f7e, type: 3}
+  m_Name: Cold n sweater
+  m_EditorClassIdentifier: 
+  ID: 
+  index: 0
+  isRecycleable: 0
+  isThgoughtThrough: 0
+  thoughts:
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: "It\u2019s a bit chilly out today..."
+  - thoughtLines:
+    - order: 0
+      thoughtLineText: If I could knit, I would make her a warm sweater for the winter.
